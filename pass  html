@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Pass</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color:lightblue;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .pass {
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .student-info {
+      text-align: center;
+    }
+
+    .student-info img {
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+    <div class="pass">
+        <div class="student-info">
+          <img src="yogesh.jpg" alt="Student Photo" width="100">
+          <h2>Yogesh P</h2>
+          <p>Grade: I PU</p>
+          <p>College: BGS PU college</p>
+          <p>From: Kunigal , To: Kaggere</p>
+          <p>Valid until: March 31, 2023</p>
+        </div>
+      </div>
+      
+      </body>
+      </html>
+      
